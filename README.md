@@ -9,13 +9,17 @@ S. M. Nuruzzaman Nobel, ***Md. Ashraful Hossain**, Md. Mohsin Kabir, M. F. Mridh
 
 
 Details are being prepared and will soon be updated here -
-
-Proposed Architecture:
-![Proposed Architecture](project_updates/Architecture.jpg) 
-
-
+<br><br><br><br><br><br><br><br>
+## 1. Proposed Architecture:
+![Proposed Architecture](project_updates/Architecture.jpg)
 
 
+## 2. Dataset:
+
+Dataset can be access via this link : https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/overview
+
+
+<br><br><br><br><br><br>
 # Citation
 
 ```bibtex
