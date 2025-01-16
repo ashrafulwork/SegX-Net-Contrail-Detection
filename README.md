@@ -6,7 +6,7 @@ This work is for research purposes and non-commercial use only. See [Attribution
 ## SegX-Net-Contrail-Detection
 **Bangladesh University of Business and Technology**
 
-S. M. Nuruzzaman Nobel, *Md. Ashraful Hossain, Md. Mohsin Kabir, M. F. Mridha, Sultan Alfarhood, Mejdl Safran
+S. M. Nuruzzaman Nobel, ***Md. Ashraful Hossain**, Md. Mohsin Kabir, M. F. Mridha, Sultan Alfarhood, Mejdl Safran
 
 [[`Paper`](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298160)] [[`Dataset`](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming)
 [[`Demo`]() 
