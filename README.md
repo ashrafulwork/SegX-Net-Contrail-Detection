@@ -1,8 +1,3 @@
-## License
-
-This work is for research purposes and non-commercial use only. See [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-
 ## SegX-Net-Contrail-Detection
 **Bangladesh University of Business and Technology**
 
@@ -40,3 +35,10 @@ Proposed Architecture:
 
 }
 ```
+
+
+
+## License
+
+This work is for research purposes and non-commercial use only. See [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+
