@@ -17,9 +17,7 @@ Details are being prepared and will soon be updated here -
 ## 2. Dataset:
 
 Dataset can be access via this link : https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/overview
-
-
-<br><br><br><br><br><br>
+<br><br><br><br>
 # Citation
 
 ```bibtex
